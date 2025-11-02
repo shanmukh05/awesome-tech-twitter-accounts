@@ -58,9 +58,9 @@
 <section id="categories">
   <h2>Categories</h2>
 
-  <article id="research-labs">
-    <h3><button onclick="toggleSection('research-labs-content')">Research Labs</button></h3>
-    <div id="research-labs-content" style="display:none;">
+  <details id="research-labs">
+    <summary><strong>Research Labs</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -69,11 +69,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="ml-ai-research">
-    <h3><button onclick="toggleSection('ml-ai-research-content')">ML/AI Research</button></h3>
-    <div id="ml-ai-research-content" style="display:none;">
+  <details id="ml-ai-research">
+    <summary><strong>ML/AI Research</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -82,11 +82,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="tech-news">
-    <h3><button onclick="toggleSection('tech-news-content')">Tech News</button></h3>
-    <div id="tech-news-content" style="display:none;">
+  <details id="tech-news">
+    <summary><strong>Tech News</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -104,11 +104,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="llms-everything">
-    <h3><button onclick="toggleSection('llms-everything-content')">Everything about LLMs</button></h3>
-    <div id="llms-everything-content" style="display:none;">
+  <details id="llms-everything">
+    <summary><strong>Everything about LLMs</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -117,11 +117,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="robotics">
-    <h3><button onclick="toggleSection('robotics-content')">Robotics</button></h3>
-    <div id="robotics-content" style="display:none;">
+  <details id="robotics">
+    <summary><strong>Robotics</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -139,11 +139,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="hardware">
-    <h3><button onclick="toggleSection('hardware-content')">Hardware</button></h3>
-    <div id="hardware-content" style="display:none;">
+  <details id="hardware">
+    <summary><strong>Hardware</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -152,11 +152,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="finance">
-    <h3><button onclick="toggleSection('finance-content')">Finance</button></h3>
-    <div id="finance-content" style="display:none;">
+  <details id="finance">
+    <summary><strong>Finance</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -175,11 +175,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="webdev">
-    <h3><button onclick="toggleSection('webdev-content')">Web Development</button></h3>
-    <div id="webdev-content" style="display:none;">
+  <details id="webdev">
+    <summary><strong>Web Development</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -188,11 +188,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="open-source">
-    <h3><button onclick="toggleSection('open-source-content')">Open Source</button></h3>
-    <div id="open-source-content" style="display:none;">
+  <details id="open-source">
+    <summary><strong>Open Source</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -201,11 +201,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="dsa-coding">
-    <h3><button onclick="toggleSection('dsa-coding-content')">DSA & Coding</button></h3>
-    <div id="dsa-coding-content" style="display:none;">
+  <details id="dsa-coding">
+    <summary><strong>DSA &amp; Coding</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -214,11 +214,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="interviews">
-    <h3><button onclick="toggleSection('interviews-content')">Tech Interviews</button></h3>
-    <div id="interviews-content" style="display:none;">
+  <details id="interviews">
+    <summary><strong>Tech Interviews</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -227,11 +227,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="saas-startups">
-    <h3><button onclick="toggleSection('saas-startups-content')">SaaS / Startups / Product</button></h3>
-    <div id="saas-startups-content" style="display:none;">
+  <details id="saas-startups">
+    <summary><strong>SaaS / Startups / Product</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -270,11 +270,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="semiconductor">
-    <h3><button onclick="toggleSection('semiconductor-content')">Semiconductor</button></h3>
-    <div id="semiconductor-content" style="display:none;">
+  <details id="semiconductor">
+    <summary><strong>Semiconductor</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -303,11 +303,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="devops-cloud">
-    <h3><button onclick="toggleSection('devops-cloud-content')">DevOps & Cloud</button></h3>
-    <div id="devops-cloud-content" style="display:none;">
+  <details id="devops-cloud">
+    <summary><strong>DevOps &amp; Cloud</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -316,11 +316,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="cybersecurity">
-    <h3><button onclick="toggleSection('cybersecurity-content')">Cybersecurity</button></h3>
-    <div id="cybersecurity-content" style="display:none;">
+  <details id="cybersecurity">
+    <summary><strong>Cybersecurity</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -329,11 +329,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="data-engineering">
-    <h3><button onclick="toggleSection('data-engineering-content')">Data Engineering & Big Data</button></h3>
-    <div id="data-engineering-content" style="display:none;">
+  <details id="data-engineering">
+    <summary><strong>Data Engineering &amp; Big Data</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -342,11 +342,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="quantum-computing">
-    <h3><button onclick="toggleSection('quantum-computing-content')">Quantum Computing</button></h3>
-    <div id="quantum-computing-content" style="display:none;">
+  <details id="quantum-computing">
+    <summary><strong>Quantum Computing</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -355,11 +355,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="game-development">
-    <h3><button onclick="toggleSection('game-development-content')">Game Development</button></h3>
-    <div id="game-development-content" style="display:none;">
+  <details id="game-development">
+    <summary><strong>Game Development</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -368,11 +368,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="ar-vr">
-    <h3><button onclick="toggleSection('ar-vr-content')">AR / VR</button></h3>
-    <div id="ar-vr-content" style="display:none;">
+  <details id="ar-vr">
+    <summary><strong>AR / VR</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -381,11 +381,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="biology">
-    <h3><button onclick="toggleSection('biology-content')">Biology</button></h3>
-    <div id="biology-content" style="display:none;">
+  <details id="biology">
+    <summary><strong>Biology</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -404,11 +404,11 @@
         </tbody>
       </table>
     </div>
-  </article>
+  </details>
 
-  <article id="education">
-    <h3><button onclick="toggleSection('education-content')">Educators & Content creators</button></h3>
-    <div id="education-content" style="display:none;">
+  <details id="education">
+    <summary><strong>Educators &amp; Content creators</strong></summary>
+    <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
@@ -417,7 +417,7 @@
         </tbody>
       </table>
     </div>
-  </article>  
+  </details>  
 
 </section>
 
@@ -436,15 +436,4 @@
 <footer style="text-align:center; margin-top:2rem;">
   <p>Maintained by the community — PRs welcome.</p>
 </footer>
-
-<script>
-  function toggleSection(sectionId) {
-    const section = document.getElementById(sectionId);
-    if (section.style.display === 'none' || section.style.display === '') {
-      section.style.display = 'block';
-    } else {
-      section.style.display = 'none';
-    }
-  }
-</script>
 
