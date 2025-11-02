@@ -18,12 +18,13 @@ How to add a new account (recommended PR format)
   <td><a href="https://x.com/handle">@handle</a></td>
   <td>One-line description (role, org, short credential).</td>
   <td>
-    <!-- Tag badges: copy one per tag -->
-    <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">ML</span>
-    <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">NLP</span>
+    <!-- Tag badges: use simple inline <code> badges for consistent GitHub rendering -->
+    <code>ML</code> <code>NLP</code>
   </td>
 </tr>
 ```
+
+Note: GitHub strips inline JavaScript and most inline styles in README rendering. For collapsible sections use HTML's `<details>` / `<summary>` blocks (these render on GitHub). Prefer the simple `<code>`-based tag badges above instead of styled `<span>` badges to avoid inconsistent rendering.
 
 3. Keep descriptions short (one sentence). Use tag badges to highlight topics (e.g., "ML", "NLP", "Research").
 4. Commit on a feature branch and open a PR targeting `main`.
@@ -38,7 +39,7 @@ Pull request checklist
 
 Style notes
 
-- Use concise tags (1-2 words) as badges. Keep badge text short to avoid layout issues on small screens.
+- Use concise tags (1-2 words) as badges. Keep badge text short to avoid layout issues on small screens. Use simple `<code>` tags for badges so they render consistently on GitHub (e.g. `<code>ML</code>`).
 - Prefer official handles and capitalization.
 - Do not add personal contact information.
 - If you propose a new category/section, include a short justification in the PR description.

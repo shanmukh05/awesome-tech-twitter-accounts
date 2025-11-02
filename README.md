@@ -77,10 +77,7 @@
             <td><a href="https://x.com/karpathy">@karpathy</a></td>
             <td>Prev Director of AI at Tesla, founding team at OpenAI, PhD @ Stanford now focused on education and research.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI Research</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">YouTube</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Open source</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">God</span>
+              <code>AI Research</code> <code>YouTube</code> <code>Open source</code> <code>God</code>
             </td>
           </tr>
         </tbody>
@@ -101,8 +98,7 @@
             <td><a href="https://x.com/tbpn">@tbpn</a></td>
             <td>Technology’s daily show with John Coogan &amp; Jordi Hays.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Talk Show</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Tech News</span>
+              <code>Talk Show</code> <code>Tech News</code>
             </td>
           </tr>
         </tbody>
@@ -136,8 +132,7 @@
             <td><a href="https://x.com/1x_tech">@1x_tech</a></td>
             <td>NEO Home Robot.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Home Robotics</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Hardware</span>
+              <code>Home Robotics</code> <code>Hardware</code>
             </td>
           </tr>
         </tbody>
@@ -171,9 +166,7 @@
             <td><a href="https://x.com/the_nof1">@the_nof1</a></td>
             <td>AI Lab for financial market research.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Research</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Finance</span>
+              <code>AI</code> <code>Research</code> <code>Finance</code>
             </td>
           </tr>
         </tbody>
@@ -246,9 +239,7 @@
             <td><a href="https://x.com/satyaa">@satyaa</a></td>
             <td>Designer’s designer, building sprrrint.com &amp; kree8.studio.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Design</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Studio</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Branding</span>
+              <code>Design</code> <code>Studio</code> <code>Branding</code>
             </td>
           </tr>
           <tr>
@@ -256,9 +247,7 @@
             <td><a href="https://x.com/marctuinier">@marctuinier</a></td>
             <td>Building ink pens that capture writing; co-host of Frisian podcast.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Hardware</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Ink Pens</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Podcasts</span>
+              <code>Hardware</code> <code>Ink Pens</code> <code>Podcasts</code>
             </td>
           </tr>
           <tr>
@@ -266,9 +255,7 @@
             <td><a href="https://x.com/phuctm97">@phuctm97</a></td>
             <td>Startup builder, created/sold multiple web/SaaS tools.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Startups</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">SaaS</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Entrepreneurship</span>
+              <code>Startups</code> <code>SaaS</code> <code>Entrepreneurship</code>
             </td>
           </tr>
           <tr>
@@ -276,8 +263,7 @@
             <td><a href="https://x.com/upen946">@upen946</a></td>
             <td>Marketing, Find Ideas, Build Business - microsaashq.com</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">SaaS</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Marketing</span>
+              <code>SaaS</code> <code>Marketing</code>
             </td>
           </tr>
           <tr>
@@ -285,8 +271,7 @@
             <td><a href="https://x.com/levelsio">@levelsio</a></td>
             <td>Built multiple SaaS products</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">SaaS</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Products</span>
+              <code>SaaS</code> <code>Products</code>
             </td>
           </tr>
         </tbody>
@@ -307,9 +292,7 @@
             <td><a href="https://x.com/lithos_graphein">@lithos_graphein</a></td>
             <td>Microchips &amp; fabrication news and dashboards.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Microchips</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">HW News</span>
+              <code>Semiconductors</code> <code>Microchips</code> <code>HW News</code>
             </td>
           </tr>
           <tr>
@@ -317,9 +300,7 @@
             <td><a href="https://x.com/dylan522p">@dylan522p</a></td>
             <td>Semiconductor research and Consulting</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Research</span>
+              <code>Semiconductors</code> <code>AI</code> <code>Research</code>
             </td>
           </tr>
           <tr>
@@ -327,8 +308,7 @@
             <td><a href="https://x.com/zephyr_z9">@zephyr_z9</a></td>
             <td>Articles on tech, AI and Semiconductors</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
+              <code>Semiconductors</code> <code>AI</code>
             </td>
           </tr>
         </tbody>
@@ -427,9 +407,7 @@
             <td><a href="https://x.com/OpenBioAI">@OpenBioAI</a></td>
             <td>Cursor for Biology at the intersection of bio and tech.</td>
             <td>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Biology</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Technology</span>
-              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Bioinformatics</span>
+              <code>Biology</code> <code>Technology</code> <code>Bioinformatics</code>
             </td>
           </tr>
         </tbody>
