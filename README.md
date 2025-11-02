@@ -21,13 +21,14 @@
     <li><a href="#how-to-use">How to use</a></li>
     <li>Categories
       <ul>
-        <li><a href="#machine-learning--ai">Machine Learning &amp; AI</a></li>
         <li><a href="#research-labs">Research Labs</a></li>
         <li><a href="#ml-ai-research">ML/AI Research</a></li>
-        <li><a href="#ml-ai-news">ML/AI News</a></li>
+        <li><a href="#tech-news">Tech News</a></li>
+        <li><a href="#llms-everything">Everything about LLMs</a></li>
         <li><a href="#robotics">Robotics</a></li>
         <li><a href="#hardware">Hardware</a></li>
-        <li><a href="#webdev-saas">Web Development</a></li>
+        <li><a href="#finance">Finance</a></li>
+        <li><a href="#webdev">Web Development</a></li>
         <li><a href="#open-source">Open Source</a></li>
         <li><a href="#dsa-coding">DSA &amp; Coding</a></li>
         <li><a href="#interviews">Tech Interviews</a></li>
@@ -58,212 +59,364 @@
   <h2>Categories</h2>
 
   <article id="research-labs">
-    <h3>Research Labs</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('research-labs-content')">Research Labs</button></h3>
+    <div id="research-labs-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="ml-ai-research">
-    <h3>ML/AI Research</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('ml-ai-research-content')">ML/AI Research</button></h3>
+    <div id="ml-ai-research-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
-  <article id="ml-ai-news">
-    <h3>ML/AI News</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+  <article id="tech-news">
+    <h3><button onclick="toggleSection('tech-news-content')">Tech News</button></h3>
+    <div id="tech-news-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>TBPN</td>
+            <td><a href="https://x.com/tbpn">@tbpn</a></td>
+            <td>Technology’s daily show with John Coogan &amp; Jordi Hays.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Talk Show</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Tech News</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </article>
+
+  <article id="llms-everything">
+    <h3><button onclick="toggleSection('llms-everything-content')">Everything about LLMs</button></h3>
+    <div id="llms-everything-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="robotics">
-    <h3>Robotics</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('robotics-content')">Robotics</button></h3>
+    <div id="robotics-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1X</td>
+            <td><a href="https://x.com/1x_tech">@1x_tech</a></td>
+            <td>NEO Home Robot.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Home Robotics</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Hardware</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="hardware">
-    <h3>Hardware</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('hardware-content')">Hardware</button></h3>
+    <div id="hardware-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
-  <article id="webdev-saas">
-    <h3>Web Development</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+  <article id="finance">
+    <h3><button onclick="toggleSection('finance-content')">Finance</button></h3>
+    <div id="finance-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>nof1</td>
+            <td><a href="https://x.com/the_nof1">@the_nof1</a></td>
+            <td>AI Lab for financial market research.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Research</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Finance</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </article>
+
+  <article id="webdev">
+    <h3><button onclick="toggleSection('webdev-content')">Web Development</button></h3>
+    <div id="webdev-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="open-source">
-    <h3>Open Source</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('open-source-content')">Open Source</button></h3>
+    <div id="open-source-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="dsa-coding">
-    <h3>DSA & Coding</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('dsa-coding-content')">DSA & Coding</button></h3>
+    <div id="dsa-coding-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="interviews">
-    <h3>Tech Interviews</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('interviews-content')">Tech Interviews</button></h3>
+    <div id="interviews-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="saas-startups">
-    <h3>SaaS / Startups / Product</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('saas-startups-content')">SaaS / Startups / Product</button></h3>
+    <div id="saas-startups-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Satya</td>
+            <td><a href="https://x.com/satyaa">@satyaa</a></td>
+            <td>Designer’s designer, building sprrrint.com &amp; kree8.studio.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Design</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Studio</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Branding</span>
+            </td>
+          </tr>
+          <tr>
+            <td>marc tuinier</td>
+            <td><a href="https://x.com/marctuinier">@marctuinier</a></td>
+            <td>Building ink pens that capture writing; co-host of Frisian podcast.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Hardware</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Ink Pens</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Podcasts</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Minh-Phuc Tran</td>
+            <td><a href="https://x.com/phuctm97">@phuctm97</a></td>
+            <td>Startup builder, created/sold multiple web/SaaS tools.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Startups</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">SaaS</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Entrepreneurship</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="semiconductor">
-    <h3>Semiconductor</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('semiconductor-content')">Semiconductor</button></h3>
+    <div id="semiconductor-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>🌿 lithos</td>
+            <td><a href="https://x.com/lithos_graphein">@lithos_graphein</a></td>
+            <td>Microchips &amp; fabrication news and dashboards.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Microchips</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">HW News</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Dylan Patel</td>
+            <td><a href="https://x.com/dylan522p">@dylan522p</a></td>
+            <td>Semiconductor research and Consulting</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Research</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="devops-cloud">
-    <h3>DevOps & Cloud</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('devops-cloud-content')">DevOps & Cloud</button></h3>
+    <div id="devops-cloud-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="cybersecurity">
-    <h3>Cybersecurity</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('cybersecurity-content')">Cybersecurity</button></h3>
+    <div id="cybersecurity-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="data-engineering">
-    <h3>Data Engineering & Big Data</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('data-engineering-content')">Data Engineering & Big Data</button></h3>
+    <div id="data-engineering-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="quantum-computing">
-    <h3>Quantum Computing</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('quantum-computing-content')">Quantum Computing</button></h3>
+    <div id="quantum-computing-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="game-development">
-    <h3>Game Development</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('game-development-content')">Game Development</button></h3>
+    <div id="game-development-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="ar-vr">
-    <h3>AR / VR</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('ar-vr-content')">AR / VR</button></h3>
+    <div id="ar-vr-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="biology">
-    <h3>Biology</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('biology-content')">Biology</button></h3>
+    <div id="biology-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>OpenBio</td>
+            <td><a href="https://x.com/OpenBioAI">@OpenBioAI</a></td>
+            <td>Cursor for Biology at the intersection of bio and tech.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Biology</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Technology</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Bioinformatics</span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </article>
 
   <article id="education">
-    <h3>Educators & Content creators</h3>
-    <table>
-      <thead>
-        <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
-      </thead>
-      <tbody>
-      </tbody>
-    </table>
+    <h3><button onclick="toggleSection('education-content')">Educators & Content creators</button></h3>
+    <div id="education-content" style="display:none;">
+      <table>
+        <thead>
+          <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
   </article>  
 
 </section>
@@ -283,4 +436,15 @@
 <footer style="text-align:center; margin-top:2rem;">
   <p>Maintained by the community — PRs welcome.</p>
 </footer>
+
+<script>
+  function toggleSection(sectionId) {
+    const section = document.getElementById(sectionId);
+    if (section.style.display === 'none' || section.style.display === '') {
+      section.style.display = 'block';
+    } else {
+      section.style.display = 'none';
+    }
+  }
+</script>
 
