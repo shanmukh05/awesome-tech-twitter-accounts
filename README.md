@@ -1,18 +1,11 @@
-<!-- Awesome Tech Twitter Accounts - HTML version for easier edits by contributors -->
+## Work in progress
+
 <header>
   <h1>Awesome Tech Twitter Accounts</h1>
   <p>A curated, community-maintained list of influential Twitter (X) accounts across tech domains — machine learning, AI research, web development, semiconductors, hardware, startups, design, bio-tech, and more.</p>
   <p>Quick links: <a href="CONTRIBUTING.md">Contributing</a> • <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> • <a href="LICENSE">License</a></p>
   <hr />
 </header>
-
-<!-- Tag badge inline style: contributors can copy this style for new tags -->
-<!-- Use the inline style on each <span> to keep rendering consistent on GitHub -->
-<section style="display:none;">
-  <!-- helper comment: sample style to copy for tags:
-  <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">ML</span>
-  -->
-</section>
 
 <nav aria-label="Table of contents">
   <h2>Table of Contents</h2>
@@ -79,6 +72,17 @@
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
         </thead>
         <tbody>
+            <tr>
+            <td>Andrej Karpathy</td>
+            <td><a href="https://x.com/karpathy">@karpathy</a></td>
+            <td>Prev Director of AI at Tesla, founding team at OpenAI, PhD @ Stanford now focused on education and research.</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI Research</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">YouTube</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Open source</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">God</span>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -267,6 +271,24 @@
               <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Entrepreneurship</span>
             </td>
           </tr>
+          <tr>
+            <td>Upen</td>
+            <td><a href="https://x.com/upen946">@upen946</a></td>
+            <td>Marketing, Find Ideas, Build Business - microsaashq.com</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">SaaS</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Marketing</span>
+            </td>
+          </tr>
+          <tr>
+            <td>levelsio</td>
+            <td><a href="https://x.com/levelsio">@levelsio</a></td>
+            <td>Built multiple SaaS products</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">SaaS</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Products</span>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -298,6 +320,15 @@
               <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
               <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
               <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Research</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Zephyr</td>
+            <td><a href="https://x.com/zephyr_z9">@zephyr_z9</a></td>
+            <td>Articles on tech, AI and Semiconductors</td>
+            <td>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">Semiconductors</span>
+              <span style="display:inline-block;background:#eef6ff;color:#0366d6;border-radius:12px;padding:2px 8px;margin:2px;font-size:90%">AI</span>
             </td>
           </tr>
         </tbody>
