@@ -34,7 +34,7 @@
         <li><a href="#game-development">Game Development</a></li>
         <li><a href="#ar-vr">AR / VR</a></li>
         <li><a href="#biology">Biology</a></li>
-        <li><a href="#education">Educators &amp; Content Creators</a></li>
+        <li><a href="#ml-education">ML Educators &amp; Content Creators</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -57,6 +57,14 @@
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+          <tr>
+            <td>Thinking Machines</td>
+            <td><a href="https://x.com/thinkymachines">@thinkymachines</a></td>
+            <td>AI Research Lab, AI Infrastructure, Multimodal AI Systems</td>
+            <td>
+              <code>AI Research</code> <code>AI safety</code>
+            </td>
+          </tr>
         </thead>
         <tbody>
         </tbody>
@@ -72,12 +80,44 @@
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
         </thead>
         <tbody>
-            <tr>
+          <tr>
             <td>Andrej Karpathy</td>
             <td><a href="https://x.com/karpathy">@karpathy</a></td>
             <td>Prev Director of AI at Tesla, founding team at OpenAI, PhD @ Stanford now focused on education and research.</td>
             <td>
               <code>AI Research</code> <code>YouTube</code> <code>Open source</code> <code>God</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Joseph Suarez</td>
+            <td><a href="https://x.com/jsuarez5341">@jsuarez5341</a></td>
+            <td>Researcher focused on RL, Founder of PufferAI, MIT PhD</td>
+            <td>
+              <code>Reinforcement Learning</code> <code>Open Source</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Archie Sengupta</td>
+            <td><a href="https://x.com/archiexzzz">@archiexzzz</a></td>
+            <td>AI Researcher, YC Dev</td>
+            <td>
+              <code>AI Research</code> 
+            </td>
+          </tr>
+          <tr>
+            <td>maharshi</td>
+            <td><a href="https://x.com/maharshii">@maharshii</a></td>
+            <td>CUDA, AI researcher</td>
+            <td>
+              <code>AI Research</code> <code>CUDA</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Manthan Gupta</td>
+            <td><a href="https://x.com/manthanguptaa">@manthanguptaa</a></td>
+            <td>AI Research engineer</td>
+            <td>
+              <code>AI Research</code>
             </td>
           </tr>
         </tbody>
@@ -99,6 +139,22 @@
             <td>Technology’s daily show with John Coogan &amp; Jordi Hays.</td>
             <td>
               <code>Talk Show</code> <code>Tech News</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Yuchen Jin</td>
+            <td><a href="https://x.com/yuchenj_uw">@yuchenj_uw</a></td>
+            <td>Latest tech news, insights, and discussions.</td>
+            <td>
+              <code>AI News</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Deedy</td>
+            <td><a href="https://x.com/deedydas">@deedydas</a></td>
+            <td>Venture Capitalist, Former founder of Glean, Cornell Alumni, Tweets about tech.</td>
+            <td>
+              <code>Tech News</code> <code>Venture Capital</code> <code>Immigration</code>
             </td>
           </tr>
         </tbody>
@@ -206,6 +262,22 @@
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+          <tr>
+            <td>Priyansh Agarwal</td>
+            <td><a href="https://x.com/priyansh_31dec">@priyansh_31dec</a></td>
+            <td>ICPC World Finalist, Competitive Programmer, Google, Educator</td>
+            <td>
+              <code>DSA</code> <code>Competitive Programming</code> <code>Educator</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Striver</td>
+            <td><a href="https://x.com/striver_79">@striver_79</a></td>
+            <td>Founder of Take U Forward, Educator, Ex-Google, Amazon, Media.net</td>
+            <td>
+              <code>DSA</code> <code>Educator</code>
+            </td>
+          </tr>
         </thead>
         <tbody>
         </tbody>
@@ -309,6 +381,22 @@
             <td>Articles on tech, AI and Semiconductors</td>
             <td>
               <code>Semiconductors</code> <code>AI</code>
+            </td>
+          </tr>
+          <tr>
+            <td>HighYieldYT</td>
+            <td><a href="https://x.com/highyieldyt">@highyieldYT</a></td>
+            <td>Tech Youtuber, Chips, Hardware</td>
+            <td>
+              <code>Semiconductors</code> <code>YouTube</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Jukan</td>
+            <td><a href="https://x.com/jukan05">@jukan05</a></td>
+            <td>Analyst</td>
+            <td>
+              <code>Semiconductors</code> <code>Korea</code>
             </td>
           </tr>
         </tbody>
@@ -415,12 +503,20 @@
     </div>
   </details>
 
-  <details id="education">
+  <details id="ml-education">
     <summary><strong>Educators &amp; Content creators</strong></summary>
     <div>
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+          <tr>
+            <td>Deep-ML</td>
+            <td><a href="https://x.com/real_deep_ml">@real_deep_ml</a></td>
+            <td>ML Education, News, Resources, Problems</td>
+            <td>
+              <code>ML/AI Education</code> <code>Resources</code>
+            </td>
+          </tr>
         </thead>
         <tbody>
         </tbody>
