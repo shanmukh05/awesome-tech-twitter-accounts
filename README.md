@@ -1,17 +1,33 @@
-## Work in progress
+<div align="center">
 
-<header>
-  <h1>Awesome Tech Twitter Accounts</h1>
-  <p>A curated, community-maintained list of influential Twitter (X) accounts across tech domains — machine learning, AI research, web development, semiconductors, hardware, startups, design, bio-tech, and more.</p>
-  <p>Quick links: <a href="CONTRIBUTING.md">Contributing</a> • <a href="CODE_OF_CONDUCT.md">Code of Conduct</a> • <a href="LICENSE">License</a></p>
-  <hr />
-</header>
+# Awesome Tech Twitter Accounts
+
+<img src="./logo.png" alt="Awesome Tech Twitter Accounts" width="40%">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/shanmukh05/awesome-tech-twitter-accounts?style=social)](https://github.com/shanmukh05/awesome-tech-twitter-accounts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/shanmukh05/awesome-tech-twitter-accounts?style=social)](https://github.com/shanmukh05/awesome-tech-twitter-accounts/network/members)
+[![GitHub license](https://img.shields.io/github/license/shanmukh05/awesome-tech-twitter-accounts)](https://github.com/shanmukh05/awesome-tech-twitter-accounts/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/shanmukh05/awesome-tech-twitter-accounts/pulls)
+[![Contributors](https://img.shields.io/github/contributors/shanmukh05/awesome-tech-twitter-accounts)](https://github.com/shanmukh05/awesome-tech-twitter-accounts/graphs/contributors)
+
+**A curated, community-maintained list of must-follow Twitter (X) accounts for tech enthusiasts, engineers, researchers, and builders.**
+
+*Discover influential voices in Machine Learning, AI Research, LLMs, Web Development, Semiconductors, Robotics, Hardware, Startups, SaaS, DevOps, Cybersecurity, Quantum Computing, Game Development, AR/VR, Biology, and more!*
+
+[📖 Browse Categories](#categories) • [🤝 Contribute](CONTRIBUTING.md) • [📜 Code of Conduct](CODE_OF_CONDUCT.md) • [⚖️ License](LICENSE)
+
+---
+
+> ⚠️ **Note:** This list is actively growing! [Star this repo](https://github.com/shanmukh05/awesome-tech-twitter-accounts) to stay updated and [contribute](CONTRIBUTING.md) your favorite accounts.
+
+</div>
 
 <nav aria-label="Table of contents">
-  <h2>Table of Contents</h2>
+  <h2>📑 Table of Contents</h2>
   <ul>
     <li><a href="#about">About</a></li>
-    <li><a href="#how-to-use">How to use</a></li>
+    <li><a href="#how-to-use">How to Use</a></li>
     <li>Categories
       <ul>
         <li><a href="#research-labs">Research Labs</a></li>
@@ -44,12 +60,32 @@
 </nav>
 
 <section id="about">
-  <h2>About</h2>
-  <p>This repository collects notable and high-signal Twitter (X) accounts organized by topic to help engineers, researchers, and enthusiasts discover people and labs worth following. Entries are concise and focused on the handle, short description, and tags.</p>
+  <h2>🎯 About</h2>
+  <p>This repository collects <strong>notable and high-signal Twitter (X) accounts</strong> organized by topic to help engineers, researchers, and enthusiasts discover people and labs worth following. Whether you're into <strong>machine learning</strong>, <strong>artificial intelligence</strong>, <strong>large language models (LLMs)</strong>, <strong>web development</strong>, <strong>semiconductors</strong>, <strong>robotics</strong>, <strong>startups</strong>, or <strong>cutting-edge research</strong>, you'll find curated accounts here.</p>
+  
+  <p><strong>Why follow these accounts?</strong></p>
+  <ul>
+    <li>Stay updated with the latest research papers and breakthroughs</li>
+    <li>Learn from industry experts and thought leaders</li>
+    <li>Discover new tools, libraries, and frameworks</li>
+    <li>Connect with the tech community and build your network</li>
+  </ul>
+</section>
+
+<section id="how-to-use">
+  <h2>📖 How to Use</h2>
+  <ol>
+    <li><strong>Browse by Category:</strong> Click on any category below to expand and see all accounts in that domain.</li>
+    <li><strong>Follow on Twitter/X:</strong> Click on the handle (e.g., <code>@username</code>) to visit their Twitter/X profile directly.</li>
+    <li><strong>Use Tags:</strong> Tags help you identify the key topics each account covers.</li>
+    <li><strong>Star this Repo:</strong> ⭐ <a href="https://github.com/shanmukh05/awesome-tech-twitter-accounts">Star this repository</a> to bookmark it and get notified of updates.</li>
+    <li><strong>Contribute:</strong> Know an account that should be here? <a href="CONTRIBUTING.md">Submit a PR</a>!</li>
+  </ol>
 </section>
 
 <section id="categories">
-  <h2>Categories</h2>
+  <h2>📂 Categories</h2>
+
 
   <details id="research-labs">
     <summary><strong>Research Labs</strong></summary>
@@ -569,16 +605,36 @@
 <hr/>
 
 <section id="contributing">
-  <h2>Contributing</h2>
-  <p>Contributions are welcome! Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> and follow the formatting guidelines. Briefly: open a PR with a single entry per row, include handle link, one-line description, and tag badges as shown above.</p>
+  <h2>🤝 Contributing</h2>
+  <p>Contributions are what make the open-source community such an amazing place to learn, inspire, and create. <strong>Any contributions you make are greatly appreciated!</strong></p>
+  
+  <p>To contribute:</p>
+  <ol>
+    <li>Fork the repository</li>
+    <li>Add your account following the format in <a href="CONTRIBUTING.md">CONTRIBUTING.md</a></li>
+    <li>Open a Pull Request</li>
+  </ol>
+  
+  <p>Please read our <a href="CONTRIBUTING.md">contribution guidelines</a> and <a href="CODE_OF_CONDUCT.md">code of conduct</a> before submitting.</p>
 </section>
 
 <section id="license">
-  <h2>License</h2>
-  <p>This project is licensed under the terms in <a href="LICENSE">LICENSE</a>.</p>
+  <h2>⚖️ License</h2>
+  <p>This project is licensed under the <strong>MIT License</strong> - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </section>
 
-<footer style="text-align:center; margin-top:2rem;">
-  <p>Maintained by the community — PRs welcome.</p>
-</footer>
+---
 
+<div align="center">
+  
+  <h3>⭐ Found this useful? Give it a star!</h3>
+  
+  <a href="https://github.com/shanmukh05/awesome-tech-twitter-accounts/stargazers">
+    <img src="https://img.shields.io/github/stars/shanmukh05/awesome-tech-twitter-accounts?style=for-the-badge&logo=github" alt="GitHub Stars">
+  </a>
+  
+  <p><em>Maintained with ❤️ by <a href="https://github.com/shanmukh05">@shanmukh05</a> and the amazing <a href="https://github.com/shanmukh05/awesome-tech-twitter-accounts/graphs/contributors">contributors</a></em></p>
+  
+  <p><strong>Keywords:</strong> Twitter accounts to follow, Tech Twitter, ML Twitter, AI Twitter, Best Twitter accounts for developers, Machine Learning researchers on Twitter, AI on X, Tech influencers, Developer Twitter list</p>
+
+</div>
