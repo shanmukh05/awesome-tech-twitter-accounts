@@ -244,17 +244,17 @@
             </td>
           </tr>
           <tr>
-            <td>1X</td>
-            <td><a href="https://x.com/physical_int">@physical_int</a></td>
             <td>Physical Intelligence</td>
+            <td><a href="https://x.com/physical_int">@physical_int</a></td>
+            <td>Developing foundation models and learning algorithms to power the robots of today and the physically-actuated devices of the future.</td>
             <td>
               <code>General purpose AI</code> <code>Foundational models</code>
             </td>
           </tr>
           <tr>
-            <td>1X</td>
-            <td><a href="https://x.com/Figure_robot">@Figure_robot</a></td>
             <td>Figure</td>
+            <td><a href="https://x.com/Figure_robot">@Figure_robot</a></td>
+            <td>AI Robotics company building the world's first commercially viable autonomous humanoid robot.</td>
             <td>
               <code>Humanoid Robotics</code>
             </td>
