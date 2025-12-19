@@ -89,6 +89,14 @@
             </td>
           </tr>
           <tr>
+            <td>Jeff Dean</td>
+            <td><a href="https://x.com/JeffDean">@JeffDean</a></td>
+            <td>Chief Scientist, Google DeepMind & Google Research. Gemini Lead.</td>
+            <td>
+              <code>AI Research</code> <code>Deep Learning</code> <code>Google</code>
+            </td>
+          </tr>
+          <tr>
             <td>Joseph Suarez</td>
             <td><a href="https://x.com/jsuarez5341">@jsuarez5341</a></td>
             <td>Researcher focused on RL, Founder of PufferAI, MIT PhD</td>
@@ -118,6 +126,14 @@
             <td>AI Research engineer</td>
             <td>
               <code>AI Research</code>
+            </td>
+          </tr>
+          <tr>
+            <td>Pramod Goyal</td>
+            <td><a href="https://x.com/goyal__pramod">@goyal__pramod</a></td>
+            <td></td>
+            <td>
+              <code>LLMs</code> <code>AI agents</code> <code>Blogs</code>
             </td>
           </tr>
         </tbody>
@@ -197,6 +213,14 @@
             <td>Physical Intelligence</td>
             <td>
               <code>General purpose AI</code> <code>Foundational models</code>
+            </td>
+          </tr>
+          <tr>
+            <td>1X</td>
+            <td><a href="https://x.com/Figure_robot">@Figure_robot</a></td>
+            <td>Figure</td>
+            <td>
+              <code>Humanoid Robotics</code>
             </td>
           </tr>
         </tbody>
@@ -299,6 +323,14 @@
       <table>
         <thead>
           <tr><th>Name</th><th>Handle</th><th>Description</th><th>Tags</th></tr>
+          <tr>
+            <td>Anshuman</td>
+            <td><a href="https://x.com/athleticKoder">@athleticKoder</a></td>
+            <td>AI consultant, Interview tips</td>
+            <td>
+              <code>LLMs</code> <code>Deep learning</code> <code>CUDA</code>
+            </td>
+          </tr>
         </thead>
         <tbody>
         </tbody>
