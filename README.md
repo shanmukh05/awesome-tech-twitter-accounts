@@ -191,6 +191,14 @@
               <code>Home Robotics</code> <code>Hardware</code>
             </td>
           </tr>
+          <tr>
+            <td>1X</td>
+            <td><a href="https://x.com/physical_int">@physical_int</a></td>
+            <td>Physical Intelligence</td>
+            <td>
+              <code>General purpose AI</code> <code>Foundational models</code>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
